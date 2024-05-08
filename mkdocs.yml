@@ -1,0 +1,165 @@
+### Gernelles
+# venv aktivieren!
+# cmd
+# cd website-mkdocs
+# .\venv\Scripts\activate.bat
+# code .
+site_url: https://prog1.thomaschewski.de/
+
+### Mkdocs
+# https://squidfunk.github.io/mkdocs-material/reference/ 
+
+### Link zur mkdocs.yml
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml#L135C3-L138C1
+# https://github.com/james-willett/mkdocs-material-youtube-tutorial/blob/main/mkdocs.yml  (aus dem Video)
+# https://squidfunk.github.io/mkdocs-material/getting-started/
+
+### Blogging-Plugin schon installiert
+# https://liang2kl.github.io/mkdocs-blogging-plugin/ 
+# https://github.com/liang2kl/mkdocs-blogging-plugin
+
+### VG WORT
+# https://www.selbstaendig-im-netz.de/einnahmequellen/vg-wort-meldung-deadline-infos-zu-den-zaehlpixeln-geschaetze-einnahmen/
+# <img style="display:none;" src="https://vg(123).met.vgwort.de/na/eine-lange-Reihe-von-Buchstaben-und-Ziffern" width="1" height="1" alt="">
+
+
+site_name: Jörg Thomaschewski - Internet-Programmierung mit PHP
+
+nav:
+  - Home: index.md
+  - '1. Einleitung und Basiswissen': 
+      - 'Übersicht': '1EinleitungundBasiswissen/index.md'
+      - '1.1 Die Struktur des Scripts': '1EinleitungundBasiswissen/1.1Struktur.md'
+      - '1.2 Wieso Programmieren?': '1EinleitungundBasiswissen/1.2WiesoProgrammieren.md'
+  - '2. Die Aufgaben': 
+      - 'Übersicht': '2Aufgaben/index.md'
+      - '2.1 Das Elektronik-Set': '2Aufgaben/2.1DasElektronikSet.md'
+      - '2.2 Blink': '2Aufgaben/2.2Blink.md'
+
+theme:
+  name: material
+  # name: material <- aus dem Video
+  # name: readthedocs <- NEIN. Lizenz kostet Geld
+  # name: windmill <- NEIN. wenig Konfigurationsmöglichkeiten
+  # ansehen sphinx https://www.sphinx-doc.org/en/master/usage/quickstart.html 
+  # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+  
+  
+  #logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
+  favicon: assets/images/favicon.ico
+  
+  # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+
+  font: false                 # Keine Google-Fonts laden
+
+  #font:                     
+  #  text: Roboto             # https://fonts.google.com/
+
+  features:
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  #  - navigation.tabs         # Nav oben
+  #  - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
+  #  - navigation.sections     # blendet links alle sections mit ein
+    - navigation.footer        # gibt einen Zurück-Button im Footer
+    - navigation.tracking      # linke Nav läuft beim Scrollen automatisch mit
+    - -navigation.expand       # Nav links ausgeklappt
+    - navigation.indexes       # Keine doppelte Überschriften direkt untereinander
+  #  - navigation.top          # Pfeil nach oben wird angezeigt
+    - toc.integrate            # Ohne Navi auf der rechten Seite
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation  # Code kann einen Kommentar enthalten https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
+    - content.code.copy        # Erstellt einen Button um Code zu kopieren
+    - content.tooltips
+  language: de
+    
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Zum Dark-mode
+      primary: orange   # Hauptfarbe: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
+      accent: grey 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Zum Light-mode    
+      primary: orange
+      accent: grey
+
+#  icon:
+#    admonition:
+#      question: octicons/question-16 
+
+plugins:
+  - social
+  - search
+  - open-in-new-tab           # Alle Links in externen Tabs öffnen
+#  - ezlinks:
+#      wikilinks: true         # Erlaubt Wikilinks in [[  ]] - ist aber veraltet und wird abgeschaltet
+#  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
+#  - blog:
+#      blog_dir: .
+#      post_readtime: false
+      # base_path: blog
+      # show_recent: 5
+      # date_format: '%Y-%m-%d'
+      #tags:
+      #  - Tech
+      #  - MkDocs
+      #  - Blogging
+  #- git-revision-date-localized:
+  #    type: 'datetime'
+  #    locale: 'de'
+
+
+extra_css:     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
+  - stylesheets/extra.css
+
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+    - js/custom.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.de/citations?user=-Oj8JzgAAAAJ
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Joerg_Thomaschewski
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/in/j%C3%B6rg-thomaschewski-7074786/de
+    - icon: fontawesome/brands/xing
+      link: https://www.xing.com/profile/Joerg_Thomaschewski
+    - icon: fontawesome/solid/envelope
+      link: mailto:joerg.thomaschewski@hs-emden-leer.de 
+
+markdown_extensions:
+  - abbr
+  - attr_list  
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - footnotes
+  - toc:
+      toc_depth: 0                # hierdurch werden keine Unterstrukturen TOC einer Seite angezeigt
+  - admonition                    # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.details              # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.superfences          # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.mark
+  - pymdownx.arithmatex:
+      generic: true 
+  - pymdownx.highlight:
+      anchor_linenums: true 
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+
+copyright: |
+  &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum/">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerklaerung/">Datenschutzerklärung</a> 
