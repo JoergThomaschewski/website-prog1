@@ -4,7 +4,7 @@
 # cd website-mkdocs
 # .\venv\Scripts\activate.bat
 # code .
-site_url: https://prog1.thomaschewski.de/
+site_url: https://python1.thomaschewski.de/
 
 ### Mkdocs
 # https://squidfunk.github.io/mkdocs-material/reference/ 
@@ -23,19 +23,17 @@ site_url: https://prog1.thomaschewski.de/
 # <img style="display:none;" src="https://vg(123).met.vgwort.de/na/eine-lange-Reihe-von-Buchstaben-und-Ziffern" width="1" height="1" alt="">
 
 
-site_name: Jörg Thomaschewski - Internet-Programmierung mit PHP
+site_name: Jörg Thomaschewski - Programmieren 1 mit Python
 
 nav:
   - Home: index.md
-  - '1. Einleitung und Basiswissen': 
-      - 'Übersicht': '1EinleitungundBasiswissen/index.md'
-      - '1.1 Die Struktur des Scripts': '1EinleitungundBasiswissen/1.1Struktur.md'
-      - '1.2 Wieso Programmieren?': '1EinleitungundBasiswissen/1.2WiesoProgrammieren.md'
-  - '2. Die Aufgaben': 
-      - 'Übersicht': '2Aufgaben/index.md'
-      - '2.1 Das Elektronik-Set': '2Aufgaben/2.1DasElektronikSet.md'
-      - '2.2 Blink': '2Aufgaben/2.2Blink.md'
-
+  - '1. Einleitung': 
+      - 'Übersicht': '1Einleitung/index.md'
+  - '2. Inbetriebnahme und Basisinfos': 
+      - 'Übersicht': '2InbetriebnahmeUndBasisinfos/index.md'
+  - '3. Raspberry Pi Pico W Anwendungen': 
+      - 'Übersicht': '3RaspberryPiPicoWAnwendungen/index.md'
+      - '3.1 LEDs': '3RaspberryPiPicoWAnwendungen/3.1LEDs.md'
 theme:
   name: material
   # name: material <- aus dem Video
