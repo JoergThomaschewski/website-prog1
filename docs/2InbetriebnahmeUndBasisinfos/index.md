@@ -20,14 +20,7 @@ Unser Board hat insgesamt 40 "Pins". Einige Pins dienen zur Spannungsversorgung,
 
 Für die erste Anwendung brauchen wir noch nicht mehr über das Board zu wissen, denn wir wollen zunächst die interne LED zum Blinken bringen.
 
-!!! note "Basis-Wissen LED"
-    Eine LED (Light Emitting Diode; dt.: Leuchtdiode) ist ein Halbleiterbauelement, das Licht erzeugt, wenn elektrischer Strom in Durchlassrichtung fließt. Somit ist beim Anschluss auf die Polarität zu achten. 
-    
-    Die Polarität erkennt man daran, dass die längere Anschlussleitung (Anode) an Plus und die kürzere (Kathode) an Minus angeschlossen wird. Die Kathode wird oft durch eine abgeflachte Seite am Gehäuse markiert bzw. wenn man von der Seite in die LED reinschaut, dann ist es innen der dickere Bereich (der Reflektor).
-
-    Typische Betriebsspannungen für LEDs liegen zwischen 2 und 3 Volt, abhängig von der Farbe. Somit kann eine LED nicht direkt an eine 5 V-Spannung angeschlossen werden.  
-
-    Bei der eingebauten LED müssen wir uns erstmal um nicht weiter kümmern. Sie ist richtig angeschlossen und hat einen passenden Vorwiderstand.
+Bei der eingebauten LED müssen wir uns erstmal um nicht weiter kümmern. Sie ist richtig angeschlossen und hat einen passenden Vorwiderstand.
 
 ## Erstinstallation
 
