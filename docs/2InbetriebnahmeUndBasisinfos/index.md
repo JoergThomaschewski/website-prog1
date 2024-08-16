@@ -7,7 +7,7 @@ Der Raspberry Pi Pico (= Pi Pico) ist ein kostengünstiges aber vielseitiges Mic
 
 Die Dokumentation des Pi Pico [findet sich hier](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) 
 
-!!! info "Nerd-Wissen"
+??? info "Nerd-Wissen Microcontroller RP2040"
     Hier der Link zum [Microcontroller RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)   
 
 Es gibt den Pi Pico in verschiedenen Ausführungen. Wir nutzen die Ausführung Raspberry Pi Pico W, bei der das "W" für WiFi (also WLAN) steht. Aber der Chip verfügt auch über Bluetooth.
@@ -26,7 +26,7 @@ Bei der eingebauten LED müssen wir uns erstmal um nicht weiter kümmern. Sie is
 
 Das Ziel diese Abschnitts ist es, dass wir die Thonny Programmierumgebung installiert haben, den Pi Pico mit dem Computer verbunden haben und die interne LED an schalten. Wir brauchen dazu einen Computer/Laptop mit Microsoft Windows, MacOS oder Linux für die Programmierumgebung ["Thonny IDE"](https://thonny.org/).
 
-!!! info "Nerd-Wissen"
+??? info "Nerd-Wissen Schnellerer Einstieg"
     Wem es hier zu langsam geht, der kann folgendes Video nutzen: [https://www.youtube.com/watch?v=_ouzuI_ZPLs](https://www.youtube.com/watch?v=_ouzuI_ZPLs)
 
     Sie können dann auch in das Thonny-Terminalfelster *help()* eingeben und sich anschauen, welche Umgebung installiert ist. 

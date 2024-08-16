@@ -5,7 +5,11 @@
 [3.1 LED blinken](3.1LEDBlinken)<br>
 [3.2 LED dimmen](3.2LEDDimmen.md)<br>
 [3.3 LED schalten](3.3LEDSchalten.md)<br>
-[3.4 LED Fußgängerampel](3.4Fussgaengerampel.md)<br>
+[3.4 I2C Display](3.4I2C-Display.md)<br>
+[3.5 Licht Sensor BH 1750](3.5LichtSensorBH1750.md)<br>
+[3.6 Temperatursensor BMP 280](3.6TemperatursensorBMP280.md)<br>
+[3.7 WLAN](3.7WLAN.md)<br>
+
 
 ## Generelles Vorgehen
 

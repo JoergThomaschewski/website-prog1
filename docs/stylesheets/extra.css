@@ -37,10 +37,29 @@
 }
 
 
+/* Ändere die Linkfarbe auf ein dunkleres Orange */
+.md-typeset a {
+  color: #D35400 !important; /* Dunkleres Orange */
+}
+
+/* Optional: Ändere die Hover-Farbe der Links */
+.md-typeset a:hover {
+  color: #A04000 !important; /* Noch dunkleres Orange */
+}
+
+/* Ändere die Farbe von Links in Navigation und Fußzeile */
+.md-nav__link, .md-footer a {
+  color: #D35400 !important;
+}
+
+.md-nav__link:hover, .md-footer a:hover {
+  color: #A04000 !important;
+}
+
 /*
 Die nachfolgenden CSS-Regeln für .read und .unread sind auskommentiert,
 da sie für eine lokale JS-Datei relevant sind, die hier nicht betrachtet wird.
-*/
+
 
 .read {
   background-color: green;
@@ -51,3 +70,4 @@ da sie für eine lokale JS-Datei relevant sind, die hier nicht betrachtet wird.
   background-color: yellow;
   color: black;
 }
+*/
