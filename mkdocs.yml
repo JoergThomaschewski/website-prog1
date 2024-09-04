@@ -41,7 +41,17 @@ nav:
       - '3.6 Temperatursensor BMP 280': '3RaspberryPiPicoWAnwendungen/3.6TemperatursensorBMP280.md'
       - '3.7 WLAN': '3RaspberryPiPicoWAnwendungen/3.7WLAN.md'
   - '4. Python-Grundlagen': 
-      - 'Übersicht': '4PythonGrundlagen/index.md'      
+      - 'Übersicht': '4PythonGrundlagen/index.md'
+      - '4.1 Syntax und Variablen': '4PythonGrundlagen/4.1SyntaxUndVariablen.md'
+      - '4.2 Schleifen': '4PythonGrundlagen/4.2Schleifen.md'
+      - '4.3 Bedingte Anweisungen': '4PythonGrundlagen/4.3BedingteAnweisungen.md'
+      - '4.4 Ein- und Ausgabe': '4PythonGrundlagen/4.4EinUndAusabe.md'
+      - '4.5 Funktionen, Klassen und Methoden': '4PythonGrundlagen/4.5FunktionenKlassenMethoden.md'
+      - '4.6 Bibliotheken': '4PythonGrundlagen/4.6Bibliotheken.md'
+      - '4.7 Daten speichern': '4PythonGrundlagen/4.7DatenSpeichern.md'
+      - '4.8 Übersicht MicroPython-spezifische Funktionen': '4PythonGrundlagen/4.8UebersichtMicroPythonSpezifischeFunktionen.md'
+  - '5. Komplexere Beispiele': 
+      - 'Übersicht': '5KomplexereBeispiele/index.md' 
 theme:
   name: material
   # name: material <- aus dem Video
