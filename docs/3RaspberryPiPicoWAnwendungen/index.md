@@ -2,7 +2,7 @@
 
 ## Gliederung
 
-[3.1 LED blinken](3.1LEDBlinken)<br>
+[3.1 LED blinken](3.1LEDBlinken.md)<br>
 [3.2 LED dimmen](3.2LEDDimmen.md)<br>
 [3.3 LED schalten](3.3LEDSchalten.md)<br>
 [3.4 I2C Display](3.4I2C-Display.md)<br>
