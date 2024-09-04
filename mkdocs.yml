@@ -33,7 +33,15 @@ nav:
       - 'Übersicht': '2InbetriebnahmeUndBasisinfos/index.md'
   - '3. Raspberry Pi Pico W Anwendungen': 
       - 'Übersicht': '3RaspberryPiPicoWAnwendungen/index.md'
-      - '3.1 LEDs': '3RaspberryPiPicoWAnwendungen/3.1LEDs.md'
+      - '3.1 LED blinken': '3RaspberryPiPicoWAnwendungen/3.1LEDBlinken.md'
+      - '3.2 LED dimmen': '3RaspberryPiPicoWAnwendungen/3.2LEDDimmen.md'
+      - '3.3 LED schalten': '3RaspberryPiPicoWAnwendungen/3.3LEDSchalten.md'
+      - '3.4 I2C Display': '3RaspberryPiPicoWAnwendungen/3.4I2C-Display.md'
+      - '3.5 Licht Sensor BH 1750': '3RaspberryPiPicoWAnwendungen/3.5LichtSensorBH1750.md'
+      - '3.6 Temperatursensor BMP 280': '3RaspberryPiPicoWAnwendungen/3.6TemperatursensorBMP280.md'
+      - '3.7 WLAN': '3RaspberryPiPicoWAnwendungen/3.7WLAN.md'
+  - '4. Python-Grundlagen': 
+      - 'Übersicht': '4PythonGrundlagen/index.md'      
 theme:
   name: material
   # name: material <- aus dem Video

@@ -143,7 +143,7 @@ Kommentarheader sind absolut wichtig und Abgaben ohne Kommenatarheader werden ni
     - Verwenden Sie stehts aussagekräftige Namen für die Dateien.
 
 
-## Interne LED blinken lassen - guter und schlechter Sourcecode
+## Interne LED blinken lassen - gute und schlechte Programmierung
 
 Wie einfach es ist, schlechten Sourcecode zu schreiben, möchte ich an diesem kleinen Beispiel zeigen. Anschließend soll KI (genauer gesagt ChatGPT) genutzt werden, denn die gute Nutzung ist sehr vorteilhaft, während eine schlechte Nutzung in Sackgassen führt; und am Ende muss man von vorne neu von Hand anfangen. 
 
@@ -152,7 +152,7 @@ Wie einfach es ist, schlechten Sourcecode zu schreiben, möchte ich an diesem kl
 
 Wir wollen die interene LED nun blinken lassen. 
 
-Hier der erste schlechte Sourcecode, der zwar funktioniert, aber nicht erweiterbar ist. 
+Hier der erste schlechte Script, der zwar funktioniert, aber nicht erweiterbar ist. 
 Genutzt wird eine Endlosschleife (while), die den eingerückten Codeblock immer wieder erneut ausführt.
 
 ```python linenums="1"
@@ -168,7 +168,7 @@ while True:
     sleep(0.5)
 ```
 
-Nun der zweite schlechte Sourcecode, der ebenso funktioniert, aber ebenfalls nicht erweiterbar ist. Statt `led.on()` und `led.off()` verwenden wir die Funktionalität `led.toggle()`.
+Nun das zweite schlechte Script, der ebenso funktioniert, aber ebenfalls nicht erweiterbar ist. Statt `led.on()` und `led.off()` verwenden wir die Funktionalität `led.toggle()`.
 
 ```python linenums="1"
 # Interne LED blinken lassen - schlecht 2
@@ -208,7 +208,7 @@ Hier schauen wir uns ChatGPT-Ergebnisse an.
 **Fragestellung an ChatGPT 4o am 12.08.2024**
 
 ```text
-Erstelle mir einen Sourcecode in MicroPython für die Nutzung durch den Raspberry Pi Pico. Die interne LED soll blinken.
+Erstelle mir ein MicroPython-Script für die Nutzung durch den Raspberry Pi Pico. Die interne LED soll blinken.
 ```
 
 **Antwort** 
@@ -230,7 +230,7 @@ while True:
 ***WICHTIG: Die Antwort von ChatGPT ist zwingend um einen Kommentarheader zu ergänzen und lautet dann für die Nuntzung durch uns z.B. wie folgt***
 ```python linenums="1" hl_lines="1-3"
 # Interne LED blinken lassen - gut
-# Sourcecode erstellt von ChatGPT 4o
+# Script erstellt von ChatGPT 4o
 # J. Thomaschewski, 12.08.2024
 from machine import Pin
 import time
@@ -271,7 +271,7 @@ Eine sehr gute Verwendung ist die Verwendung von ChatGPT als "Kommentator".
 
 ```text
 Hinweis: Ich studiere im 1. Semester und habe keine Ahnung von Programmierung.
-Kommentiere mir den Sourcecode (MicroPython für Raspberry Pi Pico) so ausführlich, sodass ich ihn gut verstehe.
+Kommentiere mir das Script (MicroPython für Raspberry Pi Pico) so ausführlich, sodass ich es gut verstehe.
 
 from machine import Pin
 from time import sleep

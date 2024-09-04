@@ -17,7 +17,7 @@ Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes 
 
 - **Die Hardware- und Elektronikgrundlagen**: Alle neuen Hardwarekomponennten werden kurz vorgestellt.
 
-- **Die Anwendungen**: Wir zeigen die Anwendungen mit vorgegebenen Sourcecode.
+- **Die Anwendungen**: Wir zeigen die Anwendungen mit vorgegebenen Beispiel-Scripten.
 
     Das Vorgehen bei allen Anwendungen ist immer
     
@@ -29,7 +29,7 @@ Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes 
 
     4. Programm ausführen
 
-- **Python**: Im Endeffekt wollen wir die Anwendungen ausprobieren UND die Programmierung verstehen. In diesem Abschnitt wird auf den Sourcecode eingegangen. Oftmals wird nicht alles besprochen, sondern es wird mit einfacher Syntax begonnen und wir steigern uns langsam. Am Anfang verstehen wir also noch nicht alle Zeilen Sourcecode, sondern nehmen vieles als gegeben hin.
+- **Python**: Im Endeffekt wollen wir die Anwendungen ausprobieren UND die Programmierung verstehen. In diesem Abschnitt wird auf die Python-Programmierung eingegangen. Oftmals wird nicht alles besprochen, sondern es wird mit einfacher Syntax begonnen und wir steigern uns langsam. Am Anfang verstehen wir also noch nicht alle Zeilen im Script, sondern nehmen vieles als gegeben hin.
 
 ## Raspberry Pi Pico Pinout
 

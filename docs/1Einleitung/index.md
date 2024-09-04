@@ -40,7 +40,7 @@ Diese Veranstaltung richte ich an denjenigen aus, die **ohne Vorwissen motiviert
 
 Nehmen wir uns ein beliebiges Programmierbuch für Anfänger:innen. Zuerst lernen wir **Syntax** und **Syntax** und **Syntax**. Sehr viel Theorie, bevor es erste sichtbare Ergebnisse gibt. Es ist also wie "Vokabeln lernen" einer neuen Sprache. Wenn man es kann, kann es Spaß machen und bis dahin ist es ein steiniger Weg.
 
-Ich möchte (erstmalig) anders vorgehen: Wir nehmen uns **kleine Elektronik-Projekte** und verwenden **vorgefertigten Sourcecode**. Wir erfreuen uns an den funktionierenden Projekten und lernen dann (wenn wir die Projekte erweitern) die Syntax. Auch dieser Weg wird nicht ohne Stolpersteine sein. Nicht immer wird gleich alles auf Anhieb funktionieren. Und dann kommt es darauf an, wie kollegial SIE genau mit diesen Situationen umgehen. 
+Ich möchte (erstmalig) anders vorgehen: Wir nehmen uns **kleine Elektronik-Projekte** und verwenden **vorgefertigte Scripte**. Wir erfreuen uns an den funktionierenden Projekten und lernen dann (wenn wir die Projekte erweitern) die Syntax. Auch dieser Weg wird nicht ohne Stolpersteine sein. Nicht immer wird gleich alles auf Anhieb funktionieren. Und dann kommt es darauf an, wie kollegial SIE genau mit diesen Situationen umgehen. 
 
 ## Was ist Programmieren?
 
