@@ -1,6 +1,34 @@
 # 2 Inbetriebnahme und Basisinfos
 
-Unser Elektronik Set besteht aus mehreren Komponenten. Wir beginnen aber ganz einfach nur mit dem Microcontrollerboard, unserem Raspberry Pi Pico W.
+## Gliederung
+
+[2.1 Inbetriebnahme](2.1Inbetriebnahme.md)<br>
+[2.2 Thonny](2.2Thonny.md)<br>
+[2.3 ChatGPT und andere KI](2.3ChatGPTUndAndereKI.md)<br>
+
+## Was Sie hier erwartet
+
+Nach dem Durcharbeiten dieses Kapitels haben Sie den Raspberry Pi Pico erfolgreich angeschlossen, kennen die sehr einfache Entwicklungsumgebung "Thonny" und sind in der Lage eigene Programme (Scripte) zu erstellen. Und Sie kennen "den guten Umgang mit ChatGPT".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unser Elektronik Set besteht aus mehreren Komponenten. Wir beginnen aber ganz einfach nur mit dem Microcontrollerboard, unserem Raspberry Pi Pico W bzw. dem Raspberry Pi Pico WH.
 
 ## Die Basis: Raspberry Pi Pico W
 Der Raspberry Pi Pico (= Pi Pico) ist ein kostengünstiges aber vielseitiges Microcontrollerboard mit dem Microcontroller RP2040, der sich ideal für Einsteigerprojekte eignet. Der Pi Pico ermöglicht einen schnellen Einstieg in die Welt der Medienelektronik und kann zur Steuerung von Sensoren, Displays und anderen Komponenten genutzt werden. Die Programmierung erfolgt in Python, genauer gesagt in MicroPython, einer abgespeckten Version von Python.
@@ -10,7 +38,15 @@ Die Dokumentation des Pi Pico [findet sich hier](https://www.raspberrypi.com/doc
 ??? info "Nerd-Wissen Microcontroller RP2040"
     Hier der Link zum [Microcontroller RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)   
 
-Es gibt den Pi Pico in verschiedenen Ausführungen. Wir nutzen die Ausführung Raspberry Pi Pico W, bei der das "W" für WiFi (also WLAN) steht. Aber der Chip verfügt auch über Bluetooth.
+Es gibt den Pi Pico in verschiedenen Ausführungen. 
+
+* Es gibt den **Raspberry Pi Pico** <br>
+Ohne WLAN und ohne Bluetooth. Er zwar günstiger, aber ohne WLAN ist man schon sehr eingeschränkt
+* Es gibt den **Raspberry Pi Pico W**<br>
+Mit WLAN und mit Bluetooth. Dieser ist in der folgenden Abbildung zu sehen.
+* Es gibt den **Raspberry Pi Pico WH**<br>
+Das Board hat noch *Header* installiert, z.B. in den drei Löchern oberhalb des WLAN-Chips.
+
 
 ![Microcontrollerboard Raspberry Pi Pico W](media/Pico1.PNG)
 
@@ -25,6 +61,8 @@ Bei der eingebauten LED müssen wir uns erstmal um nicht weiter kümmern. Sie is
 ## Erstinstallation
 
 Das Ziel diese Abschnitts ist es, dass wir die Thonny Programmierumgebung installiert haben, den Pi Pico mit dem Computer verbunden haben und die interne LED an schalten. Wir brauchen dazu einen Computer/Laptop mit Microsoft Windows, MacOS oder Linux für die Programmierumgebung ["Thonny IDE"](https://thonny.org/).
+
+Unser Computer mit dem USB-Anschluss und der Programmierumgebung "Thonny IDE" ermöglicht es uns, das wir Programme schreiben können und diese anschließend auf den Pi Pico laden können. Und dann anschließend können wir dem Pi Pico (ebenfalls über Thonny auf unserem Computer) mitteilen das Programm auszuführen.
 
 ??? info "Nerd-Wissen Schnellerer Einstieg"
     Wem es hier zu langsam geht, der kann folgendes Video nutzen: [https://www.youtube.com/watch?v=_ouzuI_ZPLs](https://www.youtube.com/watch?v=_ouzuI_ZPLs)

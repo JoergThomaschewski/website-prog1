@@ -48,7 +48,7 @@ Der Raspberry Pi Pico wird auf ein sogenanntes Breadboard gesteckt, sodas Sie we
 
 ![Drehschalter](media/3-2c-DrehschalterKY-040-Foto.PNG)
 
-Hier sehen wir, wie die einzelnen Steckpunkte miteinander verbunden sind. Oben und unten verlaufen jeweils zwei "Leitungen" für Plus und Minus. Im Hauptbereich verlaufen kurze "Leitungen", sodass der Pi Pico eingesteckt werden kann.
+Hier sehen wir, wie die einzelnen Steckpunkte miteinander verbunden sind. Oben und unten verlaufen jeweils zwei "Leitungen" für Plus und Masse. Im Hauptbereich verlaufen kurze "Leitungen", sodass der Pi Pico eingesteckt werden kann.
 
 ![Breadboard](media/Breadboard2.jpg)
 
