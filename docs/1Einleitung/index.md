@@ -1,6 +1,6 @@
 # 1 Einleitung 
 
-Wenn wir ans programmieren denken, dann denkt man normalerweise an einen Computer und einen großen Monitor mit vielen Zeilen Sourcecode. Ich möchte in diesem Modul einen anderen Weg gehen und wir beginnen Programmieren 1 mit der Prgrammiersprache Python auf einem **Mikrocontroller**. Wir verwenden also ein **Elektronik-Set** und erlernen die ersten Programmierschritte durch das Nachvollziehen und verändern vorgegebener praktischer Anwendungen
+Wenn wir ans Programmieren denken, dann denkt man normalerweise an einen Computer und einen großen Monitor mit vielen Zeilen Sourcecode. Ich möchte in diesem Modul einen anderen Weg gehen und wir beginnen Programmieren 1 mit der Programmiersprache Python auf einem **Mikrocontroller**. Wir verwenden also ein **Elektronik-Set** und erlernen die ersten Programmierschritte durch das Nachvollziehen und Verändern vorgegebener praktischer Anwendungen
 
 Die Veranstaltung folgt dem Zitat von Jörg Strick ***"Hardware macht glücklich"*** und versucht über motivierende Anwendungen einen spielerischen Einstieg in die Programmierung zu finden.
 
@@ -34,13 +34,13 @@ Egal, ob Sie schon Programmiererfahrung haben oder ganz neu anfangen – Program
 
 Für mich als Lehrender bedeutet dies, dass ich eine sehr heterogene Interessensgruppe vor mir habe und versuchen muss, allen Beteiligten eine Herausforderung zu geben. 
 
-Diese Veranstaltung richte ich an denjenigen aus, die **ohne Vorwissen motiviert und aktiv** teilnehmen. "Aktiv" bedeutet dabei, sich auch selbständig mit dem Inhalt auseinanderzusetzten - also zu studieren. 
+Diese Veranstaltung richte ich an diejenigen, die **ohne Vorwissen motiviert und aktiv** teilnehmen. "Aktiv" bedeutet dabei, sich auch selbständig mit dem Inhalt auseinanderzusetzen - also zu studieren. 
 
 ## Unser Unterschied zur klassischen Programmierveranstaltung 
 
 Nehmen wir uns ein beliebiges Programmierbuch für Anfänger:innen. Zuerst lernen wir **Syntax** und **Syntax** und **Syntax**. Sehr viel Theorie, bevor es erste sichtbare Ergebnisse gibt. Es ist also wie "Vokabeln lernen" einer neuen Sprache. Wenn man es kann, kann es Spaß machen und bis dahin ist es ein steiniger Weg.
 
-Ich möchte (erstmalig) anders vorgehen: Wir nehmen uns **kleine Elektronik-Projekte** und verwenden **vorgefertigte Scripte**. Wir erfreuen uns an den funktionierenden Projekten und lernen dann (wenn wir die Projekte erweitern) die Syntax. Auch dieser Weg wird nicht ohne Stolpersteine sein. Nicht immer wird gleich alles auf Anhieb funktionieren. Und dann kommt es darauf an, wie kollegial SIE genau mit diesen Situationen umgehen. 
+Ich möchte (erstmalig) anders vorgehen: Wir nehmen uns **kleine Elektronik-Projekte** und verwenden **vorgefertigte Scripte**. Wir erfreuen uns an den funktionierenden Projekten und lernen dann (wenn wir die Projekte erweitern) die Syntax. Auch dieser Weg wird nicht ohne Stolpersteine sein. Nicht immer wird gleich alles auf Anhieb funktionieren. Und dann kommt es darauf an, wie kollegial Sie genau mit diesen Situationen umgehen. 
 
 ## Was ist Programmieren?
 

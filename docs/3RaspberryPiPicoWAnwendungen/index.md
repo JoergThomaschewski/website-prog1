@@ -15,7 +15,7 @@
 
 Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes Unterkapitel hat folgende Struktur
 
-- **Die Hardware- und Elektronikgrundlagen**: Alle neuen Hardwarekomponennten werden kurz vorgestellt.
+- **Die Hardware- und Elektronikgrundlagen**: Alle neuen Hardwarekomponenten werden kurz vorgestellt.
 
 - **Die Anwendungen**: Wir zeigen die Anwendungen mit vorgegebenen Beispiel-Scripten.
 
@@ -29,7 +29,7 @@ Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes 
 
     4. Programm ausführen
 
-- **Python**: Im Endeffekt wollen wir die Anwendungen ausprobieren UND die Programmierung verstehen. In diesem Abschnitt wird auf die Python-Programmierung eingegangen. Oftmals wird nicht alles besprochen, sondern es wird mit einfacher Syntax begonnen und wir steigern uns langsam. Am Anfang verstehen wir also noch nicht alle Zeilen im Script, sondern nehmen vieles als gegeben hin.
+- **Python**: Letztendlich wollen wir die Anwendungen ausprobieren UND die Programmierung verstehen. In diesem Abschnitt wird auf die Python-Programmierung eingegangen. Oftmals wird nicht alles besprochen, sondern es wird mit einfacher Syntax begonnen und wir steigern uns langsam. Am Anfang verstehen wir also noch nicht alle Zeilen im Script, sondern nehmen vieles als gegeben hin.
 
 ## Raspberry Pi Pico Pinout
 
@@ -44,7 +44,7 @@ Schauen wir uns den Pin unten rechts an: Pin 21 entspricht GPIO 16.
 
 ## Breadboard
 
-Der Raspberry Pi Pico wird auf ein sogenanntes Breadboard gesteckt, sodas Sie weitere Bauteile ohne zu löten dazustecken können. Dies kann in der Praxis dann so aussehen:
+Der Raspberry Pi Pico wird auf ein sogenanntes Breadboard gesteckt, sodass Sie weitere Bauteile ohne zu löten dazustecken können. Dies kann in der Praxis dann so aussehen:
 
 ![Drehschalter](media/3-2c-DrehschalterKY-040-Foto.PNG)
 

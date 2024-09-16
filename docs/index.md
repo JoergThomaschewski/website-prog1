@@ -8,13 +8,13 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 
 ### Nützliche Hinweise
 - Sehr gut ist die eingebaute Suche, die über die Taste <kbd>F</kbd> aktiviert werden kann.
-- Sourcecode kann "oben rechts" über den Copy-Button eines Sourcecode-Blocks direkt kopiert werden.
+- Sourcecode kann 'oben rechts' über den Copy-Button in einem Sourcecode-Block direkt kopiert werden.
 
 ### Änderungshistorie
-Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehnen können, werden hier inhatliche Änderungen notiert. 
+Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-09-13] Kapitel 1 - 4 sind einsatzbereit. Das Kapitel 5 ergibt sich im laufenden Semester auch aufgrund der studentischen Interessen. 
-
+- [2024-09-13] Kapitel 1 - 4 sind einsatzbereit. Kapitel 5 ergibt sich im laufenden Semester auch aufgrund der studentischen Interessen.
+- [2024-09-16] Tippfehler und favicon korrigiert.
 
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke! 
