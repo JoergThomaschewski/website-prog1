@@ -16,6 +16,6 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-09-13] Kapitel 1 - 4 sind einsatzbereit. Kapitel 5 ergibt sich im laufenden Semester auch aufgrund der studentischen Interessen.
 - [2024-09-16] Tippfehler und favicon korrigiert.
 - [2024-09-25] Tippfehler und "Schaltpläne" (Fritzing) in Kap. 3.4, 3.5 und 3.6 korrigiert.
-
+- [2024-10-02] Kap. 3.2 LED dimmen: Sourcecode in CamelCase geschrieben, "Schaltplan" und "Foto" korrigiert, Tabelle mit den Operatoren umgeschrieben
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke! 
