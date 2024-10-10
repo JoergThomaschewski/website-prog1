@@ -33,14 +33,14 @@ Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes 
 
 ## Raspberry Pi Pico Pinout
 
-Die Übersicht über die Pinbelegung des Raspberry Pi Pico [hier als PDF](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) ist wichtig, da wir zwei Arten Pins unterscheiden: Die Pins des grünen Raspberry Pi Pico Boards (1 - 40), die wir als Anschlüsse für die Bauteile (z.B. eine externe LED) benötigen und die logischen Pins GPIO (abgekürzt GP) des Microcontrollers, die wir bei der Programmierung angeben müssen. 
+Die Übersicht über die Pinbelegung des Raspberry Pi Pico [hier als PDF](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) ist wichtig, da wir zwei Arten von Pins unterscheiden: Die Pins des grünen Raspberry Pi Pico Boards (1 - 40), die wir als Anschlüsse für die Bauteile (z.B. eine externe LED) benötigen und die logischen Pins GPIO (abgekürzt GP) des Microcontrollers, die wir bei der Programmierung angeben müssen. 
 
 Schauen wir uns den Pin unten rechts an: Pin 21 entspricht GPIO 16.
 
 ![Raspberry Pi Pico W Pinout](media/picow-pinout.svg)
 
 !!! note "Raspberry Pi Pico W Pinout"
-    Die Grafik sollten Sie (ausgedruckt) immer dabei haben.
+    Die Grafik sollten Sie (ausgedruckt) immer dabeihaben.
 
 ## Breadboard
 
