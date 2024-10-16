@@ -17,5 +17,13 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-09-16] Tippfehler und favicon korrigiert.
 - [2024-09-25] Tippfehler und "Schaltpläne" (Fritzing) in Kap. 3.4, 3.5 und 3.6 korrigiert.
 - [2024-10-02] Kap. 3.2 LED dimmen: Sourcecode in CamelCase geschrieben, "Schaltplan" und "Foto" korrigiert, Tabelle mit den Operatoren umgeschrieben
+- [2024-10-15] Viele Tippfehler korrigiert und in Kap. 3.2 Sourcecode zum Schalten mit dem Drehschalter eingefügt.
+- [2024-10-16] Kleine Änderungen im Sourcecode Kap. 3 auf CamelCase.
+
+
+#### Offene Aufgabe
+- Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
+- Prellschutz korrigieren (s. Powerpoint 2024-10-11 in Moodle)
+
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke! 
