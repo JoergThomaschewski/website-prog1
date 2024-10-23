@@ -10,7 +10,7 @@ Die Veranstaltung folgt dem Zitat von Jörg Strick ***"Hardware macht glücklich
 Programme steuern heutzutage die Welt, egal ob es uns gefällt oder nicht. Aber warum sollten gerade Sie Programmieren lernen? Hier sind einige Gründe, die sowohl erfahrene als auch neue Studierende motivieren können.
 
 1. **Problemlösungsfähigkeiten entwickeln**<br>
-    Programmieren lehrt uns, Probleme strukturiert und logisch anzugehen. Unabhängig davon, ob Sie ein einfaches Skript schreiben oder eine komplexe Anwendung entwickeln – Sie lernen, analytisch zu denken und kreative Lösungen zu finden.
+    Programmieren lehrt uns, Probleme strukturiert und logisch anzugehen. Unabhängig davon, ob Sie ein einfaches Script schreiben oder eine komplexe Anwendung entwickeln – Sie lernen, analytisch zu denken und kreative Lösungen zu finden.
 
 2. **Kreativität entfalten**<br>
     Programmieren ist nicht nur eine technische, sondern auch eine kreative Tätigkeit. Es bietet Ihnen die Möglichkeit, Ihre Ideen in die Tat umzusetzen und z.B. digitale Medien zu erschaffen, sei es ein spannendes Spiel oder eine innovative App.

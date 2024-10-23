@@ -1,7 +1,7 @@
 # Programmieren 1 mit Python
 ![Jörg Thomaschewski](./assets/images/JT-Web.jpg){align=right width="25%"}
 
-Willkommen zum Skript *Programmieren 1 (mit Python)* für Studierende der *Medientechnik* an der *Hochschule Emden/Leer*. Aber vielleicht helfen diese Inhalte ja auch anderen Studierenden und Interessierten. Ich bin Prof. Dr. Jörg Thomaschewski. Weitere Informationen zu studentischen Projekten und meiner Forschung finden Sie auf meiner Webseite [www.thomaschewski.de](https://thomaschewski.de).
+Willkommen zum Script *Programmieren 1 (mit Python)* für Studierende der *Medientechnik* an der *Hochschule Emden/Leer*. Aber vielleicht helfen diese Inhalte ja auch anderen Studierenden und Interessierten. Ich bin Prof. Dr. Jörg Thomaschewski. Weitere Informationen zu studentischen Projekten und meiner Forschung finden Sie auf meiner Webseite [www.thomaschewski.de](https://thomaschewski.de).
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!
 
@@ -19,11 +19,12 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-10-02] Kap. 3.2 LED dimmen: Sourcecode in CamelCase geschrieben, "Schaltplan" und "Foto" korrigiert, Tabelle mit den Operatoren umgeschrieben
 - [2024-10-15] Viele Tippfehler korrigiert und in Kap. 3.2 Sourcecode zum Schalten mit dem Drehschalter eingefügt.
 - [2024-10-16] Kleine Änderungen im Sourcecode Kap. 3 auf CamelCase.
-
+- [2024-10-19] Kap. 3.3 Taster als Schalter mit Prellschutz vieles neu!
+- [2024-10-23] Kap. 3.3, 3.4, 3.7, 4.4, 4.5, 4.6, 4.9 kleinere Ergänzungen & Kap. 4.1 umfangreicht überarbeitet, Kap. 4.8, 4.10 eingefügt.
 
 #### Offene Aufgabe
 - Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
-- Prellschutz korrigieren (s. Powerpoint 2024-10-11 in Moodle)
+
 
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke! 

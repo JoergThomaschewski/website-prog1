@@ -4,7 +4,7 @@
 # cd website-mkdocs
 # .\venv\Scripts\activate.bat
 # code .
-site_url: https://python1.thomaschewski.de/
+site_url: https://html.thomaschewski.de/
 
 ### Mkdocs
 # https://squidfunk.github.io/mkdocs-material/reference/ 
@@ -48,11 +48,13 @@ nav:
       - '4.1 Syntax und Variablen': '4PythonGrundlagen/4.1SyntaxUndVariablen.md'
       - '4.2 Schleifen': '4PythonGrundlagen/4.2Schleifen.md'
       - '4.3 Bedingte Anweisungen': '4PythonGrundlagen/4.3BedingteAnweisungen.md'
-      - '4.4 Ein- und Ausgabe': '4PythonGrundlagen/4.4EinUndAusabe.md'
+      - '4.4 Ein- und Ausgabe': '4PythonGrundlagen/4.4EinUndAusgabe.md'
       - '4.5 Funktionen, Klassen und Methoden': '4PythonGrundlagen/4.5FunktionenKlassenMethoden.md'
       - '4.6 Bibliotheken': '4PythonGrundlagen/4.6Bibliotheken.md'
       - '4.7 Daten speichern': '4PythonGrundlagen/4.7DatenSpeichern.md'
-      - '4.8 Übersicht MicroPython-spezifische Funktionen': '4PythonGrundlagen/4.8UebersichtMicroPythonSpezifischeFunktionen.md'
+      - '4.8 Verzeichnisse bearbeiten': '4PythonGrundlagen/4.8Verzeichnissebearbeiten.md'
+      - '4.9 Übersicht MicroPython-spezifische Funktionen': '4PythonGrundlagen/4.9UebersichtMicroPythonSpezifischeFunktionen.md'
+      - '4.10 Dies und Das': '4PythonGrundlagen/4.10DiesUndDas.md'
   - '5. Komplexere Beispiele': 
       - 'Übersicht': '5KomplexereBeispiele/index.md' 
 theme:

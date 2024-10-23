@@ -5,12 +5,13 @@
 [4.1 Syntax und Variablen](4.1SyntaxUndVariablen.md)<br>
 [4.2 Schleifen](4.2Schleifen.md)<br>
 [4.3 Bedingte Anweisungen](4.3BedingteAnweisungen.md)<br>
-[4.4 Ein- und Ausgabe](4.4EinUndAusabe.md)<br>
+[4.4 Ein- und Ausgabe](4.4EinUndAusgabe.md)<br>
 [4.5 Funktionen, Klassen und Methoden](4.5FunktionenKlassenMethoden.md)<br>
 [4.6 Bibliotheken](4.6Bibliotheken.md)<br>
 [4.7 Daten speichern](4.7DatenSpeichern.md)<br>
-[4.8 Übersicht MicroPython-spezifische Funktionen](4.8UebersichtMicroPythonSpezifischeFunktionen.md)<br>
-
+[4.8 Verzeichnisse bearbeiten](4.8Verzeichnissebearbeiten.md)<br>
+[4.9 Übersicht MicroPython-spezifische Funktionen](4.9UebersichtMicroPythonSpezifischeFunktionen.md)<br>
+[4.10 Dies und Das](4.10DiesUndDas.md)<br>
 
 ## Generelles Vorgehen in diesem Kapitel
 
