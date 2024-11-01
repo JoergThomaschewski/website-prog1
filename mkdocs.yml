@@ -43,6 +43,7 @@ nav:
       - '3.5 Licht Sensor BH 1750': '3RaspberryPiPicoWAnwendungen/3.5LichtSensorBH1750.md'
       - '3.6 Temperatursensor BMP 280': '3RaspberryPiPicoWAnwendungen/3.6TemperatursensorBMP280.md'
       - '3.7 WLAN': '3RaspberryPiPicoWAnwendungen/3.7WLAN.md'
+      - '3.8 Webserver': '3RaspberryPiPicoWAnwendungen/3.8Webserver.md'
   - '4. Python-Grundlagen': 
       - 'Übersicht': '4PythonGrundlagen/index.md'
       - '4.1 Syntax und Variablen': '4PythonGrundlagen/4.1SyntaxUndVariablen.md'
