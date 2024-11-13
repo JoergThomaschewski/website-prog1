@@ -23,9 +23,13 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-10-23] Kap. 3.3, 3.4, 3.7, 4.4, 4.5, 4.6, 4.9 kleinere Ergänzungen & Kap. 4.1 umfangreicht überarbeitet, Kap. 4.8, 4.10 eingefügt.
 - [2024-10-30] Kap. 4.1-4.4 überarbeitet, insbesondere 4.2 for-Schleife über ein Dictionary und 4.4 print
 - [2024-11-01] Kap. 3.8 Webserver ist neu
+- [2024-11-06] Kap. 3.8 Webserver Status erklärt, Kap. 4.10 ergänzt
+- [2024-11-13] Ein paar Änderungen in Kap. 4.10
 
 #### Offene Aufgabe
 - Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
+- In 4.2 eine Abbildung key-value einfügen -> s. Screenshot + Kommentare in der VL 06.11.24
+- In 4.5 eine Abbildung zum Aufruf des Konstruktors einbauen -> s. Screenshot + Kommentare in der VL 06.11.24
 
 
 ### Danksagung
