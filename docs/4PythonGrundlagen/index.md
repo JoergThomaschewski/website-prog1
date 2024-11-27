@@ -12,6 +12,7 @@
 [4.8 Verzeichnisse bearbeiten](4.8Verzeichnissebearbeiten.md)<br>
 [4.9 Übersicht MicroPython-spezifische Funktionen](4.9UebersichtMicroPythonSpezifischeFunktionen.md)<br>
 [4.10 Dies und Das](4.10DiesUndDas.md)<br>
+[4.11 Dies und Das](4.11DiesUndDas2.md)<br>
 
 ## Generelles Vorgehen in diesem Kapitel
 

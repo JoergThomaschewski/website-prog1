@@ -26,6 +26,7 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-11-06] Kap. 3.8 Webserver Status erklärt, Kap. 4.10 ergänzt
 - [2024-11-13] Ein paar Änderungen in Kap. 4.10
 - [2024-11-20] Ein paar Änderungen in Kap. 4.5
+- [2024-11-27] Ein paar Änderungen in Kap. 4.6 - 4.10 und 4.11 ist neu
 
 #### Offene Aufgabe
 - Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
