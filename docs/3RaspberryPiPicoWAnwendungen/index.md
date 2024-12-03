@@ -38,7 +38,7 @@ Die Übersicht über die Pinbelegung des Raspberry Pi Pico [hier als PDF](https:
 
 Schauen wir uns den Pin unten rechts an: Pin 21 entspricht GPIO 16.
 
-![Raspberry Pi Pico W Pinout](media/picow-pinout.svg)
+![Raspberry Pi Pico W Pinout](../media/picow-pinout.svg)
 
 !!! note "Raspberry Pi Pico W Pinout"
     Die Grafik sollten Sie (ausgedruckt) immer dabeihaben.
@@ -47,9 +47,9 @@ Schauen wir uns den Pin unten rechts an: Pin 21 entspricht GPIO 16.
 
 Der Raspberry Pi Pico wird auf ein sogenanntes Breadboard gesteckt, sodass Sie weitere Bauteile ohne zu löten dazustecken können. Dies kann in der Praxis dann so aussehen:
 
-![Drehschalter](media/3-2c-DrehschalterKY-040-Foto.PNG)
+![Drehschalter](../media/3-2c-DrehschalterKY-040-Foto.PNG)
 
 Hier sehen wir, wie die einzelnen Steckpunkte miteinander verbunden sind. Oben und unten verlaufen jeweils zwei "Leitungen" für Plus und Masse. Im Hauptbereich verlaufen kurze "Leitungen", sodass der Pi Pico eingesteckt werden kann.
 
-![Breadboard](media/Breadboard2.jpg)
+![Breadboard](../media/Breadboard2.jpg)
 

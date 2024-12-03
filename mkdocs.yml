@@ -59,6 +59,7 @@ nav:
       - '4.11 Dies und Das 2': '4PythonGrundlagen/4.11DiesUndDas2.md'     
   - '5. Komplexere Beispiele': 
       - 'Übersicht': '5KomplexereBeispiele/index.md' 
+  - 'Hauptdokument': hauptdokument.md
 theme:
   name: material
   # name: material <- aus dem Video
@@ -119,6 +120,10 @@ plugins:
   - social
   - search
   - open-in-new-tab           # Alle Links in externen Tabs öffnen
+#  - include-markdown          # Versuch für pandoc alles in eine Datei
+#     rewrite_relative_urls: true  
+  - macros:                   # Versuch für pandoc alles in eine Datei
+      inclide_dir: docs
 #  - ezlinks:
 #      wikilinks: true         # Erlaubt Wikilinks in [[  ]] - ist aber veraltet und wird abgeschaltet
 #  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
