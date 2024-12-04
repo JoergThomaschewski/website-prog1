@@ -57,9 +57,8 @@ nav:
       - '4.9 Übersicht MicroPython-spezifische Funktionen': '4PythonGrundlagen/4.9UebersichtMicroPythonSpezifischeFunktionen.md'
       - '4.10 Dies und Das': '4PythonGrundlagen/4.10DiesUndDas.md'
       - '4.11 Dies und Das 2': '4PythonGrundlagen/4.11DiesUndDas2.md'     
-  - '5. Komplexere Beispiele': 
-      - 'Übersicht': '5KomplexereBeispiele/index.md' 
-  - 'Hauptdokument': hauptdokument.md
+
+
 theme:
   name: material
   # name: material <- aus dem Video

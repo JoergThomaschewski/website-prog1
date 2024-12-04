@@ -25,4 +25,3 @@
 {% include '4PythonGrundlagen/4.9UebersichtMicroPythonSpezifischeFunktionen.md' %}
 {% include '4PythonGrundlagen/4.10DiesUndDas.md' %}
 {% include '4PythonGrundlagen/4.11DiesUndDas2.md' %}
-{% include '5KomplexereBeispiele/index.md' %}

@@ -12,7 +12,7 @@
 [4.8 Verzeichnisse bearbeiten](4.8Verzeichnissebearbeiten.md)<br>
 [4.9 Übersicht MicroPython-spezifische Funktionen](4.9UebersichtMicroPythonSpezifischeFunktionen.md)<br>
 [4.10 Dies und Das](4.10DiesUndDas.md)<br>
-[4.11 Dies und Das](4.11DiesUndDas2.md)<br>
+[4.11 Dies und Das 2](4.11DiesUndDas2.md)<br>
 
 ## Generelles Vorgehen in diesem Kapitel
 
@@ -44,13 +44,15 @@ Eine Programmiersprache ist ein Werkzeug, das es uns ermöglicht, Anweisungen an
 
 Im Gegensatz dazu sind Nicht-Programmiersprachen wie HTML, CSS oder Markdown statisch und deklarativ. Sie beschreiben, wie etwas dargestellt wird, aber sie enthalten keine Logik oder Anweisungen zur Verarbeitung von Daten. HTML, zum Beispiel, dient zur Strukturierung von Inhalten auf einer Webseite, aber es führt keine Berechnungen durch und trifft keine Entscheidungen.
 
-**Beispiele für Programmiersprachen**:
+**Beispiele für Programmiersprachen**
+
 - Python
 - PHP
 - Java
 - JavaScript
 
-**Beispiele für Nicht-Programmiersprachen**:
+**Beispiele für Nicht-Programmiersprachen**
+
 - HTML (HyperText Markup Language)
 - CSS (Cascading Style Sheets)
 - Markdown
