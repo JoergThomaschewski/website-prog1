@@ -1,13 +1,13 @@
 # 1 Einleitung 
 
-Wenn wir ans Programmieren denken, dann denkt man normalerweise an einen Computer und einen großen Monitor mit vielen Zeilen Sourcecode. Ich möchte in diesem Modul einen anderen Weg gehen und wir beginnen Programmieren 1 mit der Programmiersprache Python auf einem **Mikrocontroller**. Wir verwenden also ein **Elektronik-Set** und erlernen die ersten Programmierschritte durch das Nachvollziehen und Verändern vorgegebener praktischer Anwendungen
+Wenn man ans Programmieren denkt, dann denkt man normalerweise an einen Computer und einen großen Monitor mit vielen Zeilen Sourcecode. Ich möchte in diesem Modul einen anderen Weg gehen und wir beginnen Programmieren 1 mit der Programmiersprache Python auf einem **Mikrocontroller**. Wir verwenden also ein **Elektronik-Set** und erlernen die ersten Programmierschritte durch das Nachvollziehen und Anpassen praktischer Beispielanwendungen.
 
 Die Veranstaltung folgt dem Zitat von Jörg Strick ***"Hardware macht glücklich"*** und versucht über motivierende Anwendungen einen spielerischen Einstieg in die Programmierung zu finden.
 
 
 ## Wieso Programmieren?
 
-Programme steuern heutzutage die Welt, egal ob es uns gefällt oder nicht. Aber warum sollten gerade Sie Programmieren lernen? Hier sind einige Gründe, die sowohl erfahrene als auch neue Studierende motivieren können.
+Programme steuern heutzutage die Welt, egal ob es uns gefällt oder nicht. Was für das "selber programmieren" spricht:
 
 1. **Problemlösungsfähigkeiten entwickeln**<br>
     Programmieren lehrt uns, Probleme strukturiert und logisch anzugehen. Unabhängig davon, ob Sie ein einfaches Script schreiben oder eine komplexe Anwendung entwickeln – Sie lernen, analytisch zu denken und kreative Lösungen zu finden.
@@ -30,11 +30,11 @@ Programme steuern heutzutage die Welt, egal ob es uns gefällt oder nicht. Aber 
 7. **Spaß und Herausforderung**<br>
     Ja, Programmieren kann herausfordernd sein, aber gerade das macht den Reiz aus. Die Erfolgserlebnisse, wenn ein Programm funktioniert oder eine schwierige Aufgabe gelöst ist, sind unbezahlbar. Und wer weiß, vielleicht entdecken Sie eine neue Leidenschaft!
 
-Egal, ob Sie schon Programmiererfahrung haben oder ganz neu anfangen – Programmieren bietet für jeden etwas. Es ist eine Reise, die sowohl Ihre berufliche als auch persönliche Entwicklung bereichern kann, wenn man sich darauf einlässt.
+Egal, ob Sie schon Programmiererfahrung haben oder ganz neu anfangen, Programmieren bietet für alle etwas. Es ist eine Reise, die sowohl Ihre berufliche als auch persönliche Entwicklung bereichern kann, wenn man sich darauf einlässt.
 
 Für mich als Lehrender bedeutet dies, dass ich eine sehr heterogene Interessensgruppe vor mir habe und versuchen muss, allen Beteiligten eine Herausforderung zu geben. 
 
-Diese Veranstaltung richte ich an diejenigen, die **ohne Vorwissen motiviert und aktiv** teilnehmen. "Aktiv" bedeutet dabei, sich auch selbständig mit dem Inhalt auseinanderzusetzen - also zu studieren. 
+Diese Veranstaltung richte ich an diejenigen, die **ohne Vorwissen motiviert und aktiv** teilnehmen. "Aktiv" bedeutet dabei, sich auch selbständig mit dem Inhalt auseinanderzusetzen (dies nennt mach auch: studieren). 
 
 ## Unser Unterschied zur klassischen Programmierveranstaltung 
 

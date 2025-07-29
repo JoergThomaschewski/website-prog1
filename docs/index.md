@@ -13,21 +13,8 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-09-13] Kapitel 1 - 4 sind einsatzbereit. Kapitel 5 ergibt sich im laufenden Semester auch aufgrund der studentischen Interessen.
-- [2024-09-16] Tippfehler und favicon korrigiert.
-- [2024-09-25] Tippfehler und "Schaltpläne" (Fritzing) in Kap. 3.4, 3.5 und 3.6 korrigiert.
-- [2024-10-02] Kap. 3.2 LED dimmen: Sourcecode in CamelCase geschrieben, "Schaltplan" und "Foto" korrigiert, Tabelle mit den Operatoren umgeschrieben
-- [2024-10-15] Viele Tippfehler korrigiert und in Kap. 3.2 Sourcecode zum Schalten mit dem Drehschalter eingefügt.
-- [2024-10-16] Kleine Änderungen im Sourcecode Kap. 3 auf CamelCase.
-- [2024-10-19] Kap. 3.3 Taster als Schalter mit Prellschutz vieles neu!
-- [2024-10-23] Kap. 3.3, 3.4, 3.7, 4.4, 4.5, 4.6, 4.9 kleinere Ergänzungen & Kap. 4.1 umfangreicht überarbeitet, Kap. 4.8, 4.10 eingefügt.
-- [2024-10-30] Kap. 4.1-4.4 überarbeitet, insbesondere 4.2 for-Schleife über ein Dictionary und 4.4 print
-- [2024-11-01] Kap. 3.8 Webserver ist neu
-- [2024-11-06] Kap. 3.8 Webserver Status erklärt, Kap. 4.10 ergänzt
-- [2024-11-13] Ein paar Änderungen in Kap. 4.10
-- [2024-11-20] Ein paar Änderungen in Kap. 4.5
-- [2024-11-27] Ein paar Änderungen in Kap. 4.6 - 4.10 und 4.11 ist neu
-- [2024-11-04] Minimale Fehlerverbesserungen
+- [2025-09-01] Aktuelle Version mit der wir in das neue Semester WS 2025/2026 starten.
+
 
 #### Offene Aufgabe
 - Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
@@ -36,4 +23,5 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 
 
 ### Danksagung
-Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke! 
+Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke!
+

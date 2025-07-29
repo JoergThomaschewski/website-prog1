@@ -44,20 +44,29 @@ nav:
       - '3.6 Temperatursensor BMP 280': '3RaspberryPiPicoWAnwendungen/3.6TemperatursensorBMP280.md'
       - '3.7 WLAN': '3RaspberryPiPicoWAnwendungen/3.7WLAN.md'
       - '3.8 Webserver': '3RaspberryPiPicoWAnwendungen/3.8Webserver.md'
-  - '4. Python-Grundlagen': 
+  - '4. Python-Grundlagen':
       - 'Übersicht': '4PythonGrundlagen/index.md'
       - '4.1 Syntax und Variablen': '4PythonGrundlagen/4.1SyntaxUndVariablen.md'
       - '4.2 Schleifen': '4PythonGrundlagen/4.2Schleifen.md'
       - '4.3 Bedingte Anweisungen': '4PythonGrundlagen/4.3BedingteAnweisungen.md'
-      - '4.4 Ein- und Ausgabe': '4PythonGrundlagen/4.4EinUndAusgabe.md'
-      - '4.5 Funktionen, Klassen und Methoden': '4PythonGrundlagen/4.5FunktionenKlassenMethoden.md'
-      - '4.6 Bibliotheken': '4PythonGrundlagen/4.6Bibliotheken.md'
-      - '4.7 Daten speichern': '4PythonGrundlagen/4.7DatenSpeichern.md'
-      - '4.8 Verzeichnisse bearbeiten': '4PythonGrundlagen/4.8Verzeichnissebearbeiten.md'
-      - '4.9 Übersicht MicroPython-spezifische Funktionen': '4PythonGrundlagen/4.9UebersichtMicroPythonSpezifischeFunktionen.md'
-      - '4.10 Dies und Das': '4PythonGrundlagen/4.10DiesUndDas.md'
-      - '4.11 Dies und Das 2': '4PythonGrundlagen/4.11DiesUndDas2.md'     
-
+      - '4.4 Ein- und Ausgabe – Übersicht': '4PythonGrundlagen/4.4EinUndAusgabe.md'
+      - '4.4.1 Konsolen: Ein- und Ausgabe': '4PythonGrundlagen/4.4.1KonsoleneinAusgabe.md'
+      - '4.4.2 GPIO: GPIO: Ein- und Ausgang mit Pin': '4PythonGrundlagen/4.4.2GPIO-EinAusgang.md'
+      - '4.4.3 Netzwerk-Ein-/Ausgabe (Webserver, HTTP)': '4PythonGrundlagen/4.4.3Netzwerk.md'
+      - '4.5 Fertige Funktionalitäten verwenden': '4PythonGrundlagen/4.5FertigeFunktionalitaeten.md'
+      - '4.6 Funktionen, Klassen und Methoden': '4PythonGrundlagen/4.6FunktionenKlassenMethoden.md'
+      - '4.6.1 Funktionen': '4PythonGrundlagen/4.6.1Funktionen.md'
+      - '4.6.2 Rekursion': '4PythonGrundlagen/4.6.2Rekursion.md'
+      - '4.6.3 Klassen-Grundlagen': '4PythonGrundlagen/4.6.3KlassenGrundlagen.md'
+      - '4.6.4 Objektstruktur & Kapselung mit privaten Attributen': '4PythonGrundlagen/4.6.4Objektstruktur.md'
+      - '4.6.5 Struktur durch klare Methoden und Klassen': '4PythonGrundlagen/4.6.5MethodenVerantwortung.md'
+      - '4.6.6 Fehlerprüfung und Absicherung': '4PythonGrundlagen/4.6.6FehlerAbsicherung.md'
+      - '4.6.7 Zwei Klassen im Zusammenspiel': '4PythonGrundlagen/4.6.7ZweiKlassen.md'
+      - '4.7 Bibliotheken': '4PythonGrundlagen/4.7Bibliotheken.md'
+      - '4.8 Daten speichern': '4PythonGrundlagen/4.8DatenSpeichern.md'
+      - '4.9 Verzeichnisse bearbeiten': '4PythonGrundlagen/4.9Verzeichnissebearbeiten.md'
+      - '4.10 MicroPython-Funktionen': '4PythonGrundlagen/4.10UebersichtMicroPythonSpezifischeFunktionen.md'
+      - '4.11 Dies und Das': '4PythonGrundlagen/4.11DiesUndDas.md'
 
 theme:
   name: material
@@ -122,7 +131,7 @@ plugins:
 #  - include-markdown          # Versuch für pandoc alles in eine Datei
 #     rewrite_relative_urls: true  
   - macros:                   # Versuch für pandoc alles in eine Datei
-      inclide_dir: docs
+      include_dir: docs
 #  - ezlinks:
 #      wikilinks: true         # Erlaubt Wikilinks in [[  ]] - ist aber veraltet und wird abgeschaltet
 #  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
@@ -172,21 +181,20 @@ markdown_extensions:
       toc_depth: 0                # hierdurch werden keine Unterstrukturen TOC einer Seite angezeigt
   - admonition                    # hierdurch können Bereiche ein- und ausgeklappt werden
   - pymdownx.details              # hierdurch können Bereiche ein- und ausgeklappt werden
-  - pymdownx.superfences          # hierdurch können Bereiche ein- und ausgeklappt werden
   - pymdownx.mark
   - pymdownx.arithmatex:
       generic: true 
   - pymdownx.highlight:
       anchor_linenums: true 
   - pymdownx.emoji:
+      emoji_index:    !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
   - pymdownx.superfences:
-        # make exceptions to highlighting of code:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid_custom
+          format: !!python/name:mermaid2.fence_mermaid_custom  # oder anderer Formatter
+
 
 copyright: |
   &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum/">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerklaerung/">Datenschutzerklärung</a> 
