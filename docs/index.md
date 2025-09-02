@@ -16,12 +16,6 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2025-09-01] Aktuelle Version mit der wir in das neue Semester WS 2025/2026 starten.
 
 
-#### Offene Aufgabe
-- Wie werden Programme ausgeführt -> Zeichnung einfügen (s. Tafelbild 16.10.24)
-- In 4.2 eine Abbildung key-value einfügen -> s. Screenshot + Kommentare in der VL 06.11.24
-- In 4.5 eine Abbildung zum Aufruf des Konstruktors einbauen -> s. Screenshot + Kommentare in der VL 06.11.24
-
-
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke!
 

@@ -14,7 +14,10 @@
 
 ## Generelles Vorgehen
 
-Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Jedes Unterkapitel hat folgende Struktur
+Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Bei den Anwendungen müssen wir nicht mehr zwischen "Pi Pico W" und Pi Pico 2 W" unterscheiden und sprechen daher immer vom Pi Pico (und meinen damit beide Varianten, also den Pi Pico und den Pi Pico 2), da da beide Boards die gleiche Pinbelegung und identische Programmier-Schnittstellen bieten. Der einzige Unterschied liegt im Chip, der beim Pi Pico 2 mehr Leistung und Speicher bietet.
+
+
+Jedes Unterkapitel hat folgende Struktur
 
 - **Die Hardware- und Elektronikgrundlagen**: Alle neuen Hardwarekomponenten werden kurz vorgestellt.
 

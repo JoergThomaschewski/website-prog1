@@ -31,9 +31,10 @@ nav:
       - 'Übersicht': '1Einleitung/index.md'
   - '2. Inbetriebnahme und Basisinfos': 
       - 'Übersicht': '2InbetriebnahmeUndBasisinfos/index.md'
-      - '2.1 Inbetriebnahme': '2InbetriebnahmeUndBasisinfos/2.1Inbetriebnahme.md'
-      - '2.2 Thonny': '2InbetriebnahmeUndBasisinfos/2.2Thonny.md'
-      - '2.3 ChatGPT und andere KI': '2InbetriebnahmeUndBasisinfos/2.3ChatGPTUndAndereKI.md'
+      - '2.1 Inbetriebnahme': '2InbetriebnahmeUndBasisinfos/2.1Inbetriebnahme-pico2.md'
+      - '2.2 Inbetriebnahme': '2InbetriebnahmeUndBasisinfos/2.2Inbetriebnahme.md'
+      - '2.3 Thonny': '2InbetriebnahmeUndBasisinfos/2.3Thonny.md'
+      - '2.4 ChatGPT und andere KI': '2InbetriebnahmeUndBasisinfos/2.4ChatGPTUndAndereKI.md'
   - '3. Raspberry Pi Pico W Anwendungen': 
       - 'Übersicht': '3RaspberryPiPicoWAnwendungen/index.md'
       - '3.1 LED blinken': '3RaspberryPiPicoWAnwendungen/3.1LEDBlinken.md'
