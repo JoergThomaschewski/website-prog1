@@ -26,6 +26,7 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2025-09-01] Aktuelle Version mit der wir in das neue Semester WS 2025/2026 starten.
 - [2025-10-16] Tippfehler bereinigt und kleinere Änderungen in Kap. 3.7, 3.8 und 4.1.
 - [2025-11-10] Kleinere Änderungen in Kap. 4.6.1 und 4.6.3.
+- [2025-11-21] Verbesserung der Sourcecodes in Kap. 4.6.3 - 4.6.7.
 
 
 ### Danksagung
