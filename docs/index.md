@@ -27,6 +27,8 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2025-10-16] Tippfehler bereinigt und kleinere Änderungen in Kap. 3.7, 3.8 und 4.1.
 - [2025-11-10] Kleinere Änderungen in Kap. 4.6.1 und 4.6.3.
 - [2025-11-21] Verbesserung der Sourcecodes in Kap. 4.6.3 - 4.6.7.
+- [2025-11-27] Kap. 4.6.5: Klassendiagramme erklärt
+- [2025-12-17] Kap. 3.1 & 4.5: prüfungsrelevante Python-Funktionalitäten in fett dargestellt
 
 
 ### Danksagung
