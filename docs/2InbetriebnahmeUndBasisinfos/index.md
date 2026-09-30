@@ -5,7 +5,7 @@
 [2.1 Inbetriebnahme Pi Pico 2](2.1Inbetriebnahme-pico2.md)<br>
 [2.2 Inbetriebnahme Pi Pico ](2.2Inbetriebnahme.md)<br>
 [2.3 Thonny](2.3Thonny.md)<br>
-[2.4 ChatGPT und andere KI](2.4ChatGPTUndAndereKI.md)<br>
+[2.4 Nutzung von KI-Werkzeugen](2.4NutzungvonKI-Werkzeugen.md)<br>
 
 ## Was Sie hier erwartet
 
