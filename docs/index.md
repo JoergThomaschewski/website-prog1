@@ -27,14 +27,8 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2025-09-01] Aktuelle Version mit der wir in das neue Semester WS 2025/2026 starten.
-- [2025-10-16] Tippfehler bereinigt und kleinere Änderungen in Kap. 3.7, 3.8 und 4.1.
-- [2025-11-10] Kleinere Änderungen in Kap. 4.6.1 und 4.6.3.
-- [2025-11-21] Verbesserung der Sourcecodes in Kap. 4.6.3 - 4.6.7.
-- [2025-11-27] Kap. 4.6.5: Klassendiagramme erklärt
-- [2025-12-17] Kap. 3.1 & 4.5: prüfungsrelevante Python-Funktionalitäten in fett dargestellt
-- [2026-01-03] Kap. 3 Boxen hinzugefügt. Kap. 3.3 & 3.4 PULL_DOWN dorch PULL_UP ersetzt. Viele Tippfehler im 3. Kap. entfernt.
-- [2026-01-04] Kap. 3.3 umfangreich überarbeitet.
+- [2026-09-21] Aktuelle Version mit der wir in das neue Semester WS 2026/2027 starten.
+- [2026-09-30] Kapitel 2.4 angepasst.
 
 ### Danksagung
 Ein besonderer Dank geht an **Jörg Strick**, der viele Jahre und viel Energie aufbrachte, um mich für Python und die Verbindung mit "Elektronik" zu begeistern. Danke!
