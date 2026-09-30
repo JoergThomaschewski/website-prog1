@@ -6,7 +6,7 @@
 [3.2 LED dimmen](3.2LEDDimmen.md)<br>
 [3.3 LED schalten](3.3LEDSchalten.md)<br>
 [3.4 I2C Display](3.4I2C-Display.md)<br>
-[3.5 Licht Sensor BH 1750](3.5LichtSensorBH1750.md)<br>
+[3.5 Lichtsensor BH 1750](3.5LichtSensorBH1750.md)<br>
 [3.6 Temperatursensor BMP 280](3.6TemperatursensorBMP280.md)<br>
 [3.7 WLAN](3.7WLAN.md)<br>
 [3.8 Webserver](3.8Webserver.md)<br>
@@ -14,10 +14,10 @@
 
 ## Generelles Vorgehen
 
-Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Bei den Anwendungen müssen wir nicht mehr zwischen "Pi Pico W" und Pi Pico 2 W" unterscheiden und sprechen daher immer vom Pi Pico (und meinen damit beide Varianten, also den Pi Pico und den Pi Pico 2), da da beide Boards die gleiche Pinbelegung und identische Programmier-Schnittstellen bieten. Der einzige Unterschied liegt im Chip, der beim Pi Pico 2 mehr Leistung und Speicher bietet.
+Hier stellen wir die Pi Pico-Anwendungen vor, die wir realisieren wollen. Bei den Anwendungen müssen wir nicht mehr zwischen „Pi Pico W“ und „Pi Pico 2 W“ unterscheiden und sprechen daher immer vom Pi Pico. Damit sind beide Varianten gemeint, also der Pi Pico und der Pi Pico 2, da beide Boards die gleiche Pinbelegung und identische Programmierschnittstellen bieten. Der einzige Unterschied liegt im Chip, der beim Pi Pico 2 mehr Leistung und Speicher bietet.
 
 
-Jedes Unterkapitel hat folgende Struktur
+Jedes Unterkapitel hat folgende Struktur:
 
 - **Die Hardware- und Elektronikgrundlagen**: Alle neuen Hardwarekomponenten werden kurz vorgestellt.
 
@@ -37,14 +37,14 @@ Jedes Unterkapitel hat folgende Struktur
 
 ## Raspberry Pi Pico Pinout
 
-Die Übersicht über die Pinbelegung des Raspberry Pi Pico [hier als PDF](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) ist wichtig, da wir zwei Arten von Pins unterscheiden: Die Pins des grünen Raspberry Pi Pico Boards (1 - 40), die wir als Anschlüsse für die Bauteile (z.B. eine externe LED) benötigen und die logischen Pins GPIO (abgekürzt GP) des Microcontrollers, die wir bei der Programmierung angeben müssen. 
+Die Übersicht über die Pinbelegung des Raspberry Pi Pico [hier als PDF](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) ist wichtig, da wir zwei Arten von Pins unterscheiden: Die Pins des grünen Raspberry Pi Pico Boards (1–40), die wir als Anschlüsse für die Bauteile (z. B. eine externe LED) benötigen, und die logischen Pins GPIO (abgekürzt GP) des Mikrocontrollers, die wir bei der Programmierung angeben müssen.
 
 Schauen wir uns den Pin unten rechts an: Pin 21 entspricht GPIO 16.
 
 ![Raspberry Pi Pico W Pinout](../media/picow-pinout.svg)
 
-!!! note "Raspberry Pi Pico W Pinout"
-    Die Grafik sollten Sie (ausgedruckt) immer dabeihaben.
+!!! danger "Raspberry Pi Pico W Pinout"
+    **Die Grafik sollten Sie (ausgedruckt) immer dabeihaben.**
 
 ## Breadboard
 
@@ -56,3 +56,7 @@ Hier sehen wir, wie die einzelnen Steckpunkte miteinander verbunden sind. Oben u
 
 ![Breadboard](../media/Breadboard2.jpg)
 
+!!! danger "Achten Sie immer auf Plus und Minus/Masse!"
+    Nutzen Sie stets **ROT für PLUS**  und **Schwarz oder Blau für MINUS/MASSE**.
+
+    Je nachdem an welcher Seite Sie den Pi Pico auf das Breadboard gesteckt haben, sind die unteren und oberen Reihen **rot oder blau**. Also bitte nicht einfach "nachstecken", sondern immer passend zur Farbe stecken. **Rote Stecker in die rote Reihe** und **blaue/schwarze Stecker in die blaue Reihe**.
